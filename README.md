@@ -27,7 +27,7 @@
 |2|3||9|[Базовые приложения React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-9)|
 |2|||10|[Компоненты React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-10)|
 |2|||11|[Менеджеры состояний и Redux](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-11)|
-|2|||12|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-12)|
+|2|||12|[Приложение на React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-12)|
 |2|4||13|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-13)|
 |2|||14|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-14)|
 |2|||15|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-15)|
