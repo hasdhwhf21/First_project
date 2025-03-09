@@ -16,14 +16,14 @@
 
 |Семестр|№ лекции|Тема лекции|№ практики|Тема практики|
 |---|---|---|---|---|
-|2|1||1||
-|2|||2||
-|2|||3||
-|2|||4||
-|2|2||5||
-|2|||6||
-|2|||7||
-|2|||8||
+|2|1||1|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-1)|
+|2|||2|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-2)|
+|2|||3|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-3)|
+|2|||4|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-4)|
+|2|2||5|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-5)|
+|2|||6|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-6)|
+|2|||7|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-7)|
+|2|||8|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-8)|
 |2|3||9|[Базовые приложения React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-9)|
 |2|||10|[Компоненты React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-10)|
 |2|||11|[Менеджеры состояний и Redux](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-11)|
