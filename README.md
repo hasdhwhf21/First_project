@@ -16,35 +16,35 @@
 
 |Семестр|№ лекции|Тема лекции|№ практики|Тема практики|
 |---|---|---|---|---|
-|2|1||1|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-1)|
-|2|||2|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-2)|
-|2|||3|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-3)|
-|2|||4|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-4)|
-|2|2||5|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-5)|
-|2|||6|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-6)|
-|2|||7|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-7)|
-|2|||8|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-8)|
-|2|3||9|[Базовые приложения React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-9)|
-|2|||10|[Компоненты React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-10)|
-|2|||11|[Менеджеры состояний и Redux](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-11)|
-|2|||12|[Приложение на React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-12)|
-|2|4||13|[Процесс аутентификации и токены](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-13)|
-|2|||14|[JWT токены](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-14)|
-|2|||15|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-15)|
-|2|||16|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-16)|
-|2|5||17|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-17)|
-|2|||18|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-18)|
-|2|||19|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-19)|
-|2|||20|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-20)|
-|2|6||21|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-21)|
-|2|||22|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-22)|
-|2|||23|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-23)|
-|2|||24|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-24)|
-|2|7||25|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-25)|
-|2|||26|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-26)|
-|2|||27|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-27)|
-|2|||28|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-28)|
-|2|8||29|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-29)|
-|2|||30|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-30)|
-|2|||31|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-31)|
-|2|||32|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-2-32)|
+|1|1||1|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-1)|
+|1|||2|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-2)|
+|1|||3|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-3)|
+|1|||4|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-4)|
+|1|2||5|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-5)|
+|1|||6|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-6)|
+|1|||7|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-7)|
+|1|||8|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-8)|
+|1|3||9|[Базовые приложения React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-9)|
+|1|||10|[Компоненты React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-10)|
+|1|||11|[Менеджеры состояний и Redux](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-11)|
+|1|||12|[Приложение на React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-12)|
+|1|4||13|[Процесс аутентификации и токены](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-13)|
+|1|||14|[JWT токены](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-14)|
+|1|||15|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-15)|
+|1|||16|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-16)|
+|1|5||17|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-17)|
+|1|||18|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-18)|
+|1|||19|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-19)|
+|1|||20|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-20)|
+|1|6||21|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-21)|
+|1|||22|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-22)|
+|1|||23|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-23)|
+|1|||24|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-24)|
+|1|7||25|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-25)|
+|1|||26|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-26)|
+|1|||27|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-27)|
+|1|||28|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-28)|
+|1|8||29|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-29)|
+|1|||30|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-30)|
+|1|||31|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-31)|
+|1|||32|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-32)|
