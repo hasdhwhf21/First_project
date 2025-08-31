@@ -17,7 +17,7 @@
 |Семестр|№ лекции|Тема лекции|№ практики|Тема практики|
 |---|---|---|---|---|
 |1|1||1|[Инициализация Git-репозитория, работа с GitHub и публикация проекта на GitHub Pages](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-1)|
-|1|||2|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-2)|
+|1|||2|[Создание многостраничного сайта: семантическая разметка, навигация, якорные ссылки](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-2)|
 |1|||3|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-3)|
 |1|||4|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-4)|
 |1|2||5|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-5)|
