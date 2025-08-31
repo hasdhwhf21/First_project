@@ -24,12 +24,12 @@
 |1|||6|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-6)|
 |1|||7|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-7)|
 |1|||8|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-8)|
-|1|3||9|[Базовые приложения React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-9)|
-|1|||10|[Компоненты React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-10)|
-|1|||11|[Менеджеры состояний и Redux](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-11)|
-|1|||12|[Приложение на React](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-12)|
-|1|4||13|[Процесс аутентификации и токены](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-13)|
-|1|||14|[JWT токены](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-14)|
+|1|3||9|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-9)|
+|1|||10|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-10)|
+|1|||11|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-11)|
+|1|||12|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-12)|
+|1|4||13|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-13)|
+|1|||14|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-14)|
 |1|||15|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-15)|
 |1|||16|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-16)|
 |1|5||17|[](https://github.com/astafiev-rustam/frontend-and-backend-development/tree/Practice-1-17)|
