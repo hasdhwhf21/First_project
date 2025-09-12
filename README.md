@@ -4,7 +4,7 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://hasdhwhf21.github.io/First_project/)
+- [Публичная страница на GitHub Pages](https://github.com/hasdhwhf21/First_project)
 
 # Фронтенд и бэкенд разработка
 |||
